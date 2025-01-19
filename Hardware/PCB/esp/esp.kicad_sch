@@ -1,0 +1,136 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ea3677d7-dbcb-472e-8eac-3c37c28417b4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 99.06 34.29)
+		(size 48.26 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4caf47a4-7399-438b-b7af-efdb259a978b")
+		(property "Sheetname" "power"
+			(at 99.06 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 99.06 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp"
+				(path "/ea3677d7-dbcb-472e-8eac-3c37c28417b4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 161.29 33.02)
+		(size 48.26 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "51133f0f-bc4e-4d2f-b780-3aba23b96242")
+		(property "Sheetname" "Untitled Sheet"
+			(at 161.29 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 161.29 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp"
+				(path "/ea3677d7-dbcb-472e-8eac-3c37c28417b4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 34.29)
+		(size 48.26 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b2d01948-41a7-46d2-96e3-d2ae83494751")
+		(property "Sheetname" "esp32_s3_mini"
+			(at 27.94 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32_s3_mini.kicad_sch"
+			(at 27.94 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 27.94 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "esp"
+				(path "/ea3677d7-dbcb-472e-8eac-3c37c28417b4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
